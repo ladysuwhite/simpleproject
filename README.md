@@ -31,5 +31,10 @@ $$a^2+b^2$$
 this is a little changes as required
 more changes
 more more
+<<<<<<< Updated upstream
 hello
+=======
+mo
+
+>>>>>>> Stashed changes
 [my website](https://........)
