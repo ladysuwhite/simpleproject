@@ -26,7 +26,7 @@ or a numbered list:
 
 ```
 
-$$a^2+b^2$$
+There used to be an equation here.
 
 this is a little changes as required
 more changes
